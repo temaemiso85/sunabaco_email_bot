@@ -1,0 +1,13 @@
+# 機密ファイル
+.env
+
+# Python関連
+__pycache__/
+*.pyc
+venv/
+
+# IDE設定
+.vscode/
+
+# システムファイル
+.DS_Store
